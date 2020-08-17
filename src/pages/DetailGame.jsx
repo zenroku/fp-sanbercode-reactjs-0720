@@ -67,7 +67,7 @@ const DetailGame = () => {
                     </Grid>
                     <Grid container justify="center">
                         <div className={classes.canvas} style={{ objectFit: 'cover' }}>
-                            <img className={classes.imageStyle} alt="naon we" src={detail.image_url}></img>
+                            <img className={classes.imageStyle} alt={detail.name} src={detail.image_url}></img>
                         </div>
                     </Grid>
                     <Grid item xs={4}>
