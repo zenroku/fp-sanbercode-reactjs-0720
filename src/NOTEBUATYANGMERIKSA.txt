@@ -1,0 +1,8 @@
+1. Untuk contoh penggunaan Class Component ada di file components/NotFound
+2. untuk contoh Penggunaan Functional Component ada di file components/Footer
+3. Untuk sidebar pake Drawer yang ada di components/Drawer
+4. sisanya cek sendiri
+5. tolong maklumin dong filter sama sort butuh waktu belajar lagi bang, udah nyari banyak referensi tp harus belajar lagi. 
+    ga cukup waktu di deadline cuman seminggu tapi banyak fitur yg btuh belajar extra
+6. last what i ask is, tolong apresiasi aja dengan ngasih Sertifikat, sy udh ngerjain cape2 belajar react baru 2 minggu, 
+    ini ngerjain projek yg lumayan kompleks cuman dikasih seminggu KURANG 1 hari
